@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-.login-box {
+.authorization-box {
     width: 360px;
     padding: 40px;
     position: relative;
@@ -24,7 +24,7 @@ body {
     color: white;
 }
 
-.login-box h2 {
+.authorization-box h2 {
     margin-bottom: 30px;
     font-size: 22px;
     color: white;
